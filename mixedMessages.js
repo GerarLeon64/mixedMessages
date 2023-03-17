@@ -9,3 +9,4 @@ const randomCourse = () => {
 }
 
 console.log('You will be taking ' + randomCourse() + ' next semester');
+
